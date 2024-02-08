@@ -39,3 +39,5 @@ ignore = [
     "compiler/rustc_codegen_cranelift/example",
     "compiler/rustc_codegen_cranelift/scripts",
 ]
+
+//stop
